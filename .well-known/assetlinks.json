@@ -4,6 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.yoozro.application",
     "sha256_cert_fingerprints":
-    ["7E:E9:8D:7A:F5:4A:9E:5B:2B:AE:B8:11:0D:C5:D4:C6:24:B3:4A:30:73:3C:50:2D:92:F7:71:51:47:06:55:1E"]
+    ["7E:E9:8D:7A:F5:4A:9E:5B:2B:AE:B8:11:0D:C5:D4:C6:24:B3:4A:30:73:3C:50:2D:92:F7:71:51:47:06:55:1E",
+      "E6:C0:F9:89:CB:C8:8F:B7:72:B3:38:FC:6C:79:91:AC:36:64:85:7C:E7:6C:69:0B:30:4F:37:6E:F5:26:B6:B6"]
   }
 }]
